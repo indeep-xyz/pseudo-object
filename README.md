@@ -1,4 +1,4 @@
 PseudoObject
 ====
 
-Moved to [new name](https://github.com/indeep-xyz/pseudoo).
+Moved to [Pseudoo](https://github.com/indeep-xyz/pseudoo).
